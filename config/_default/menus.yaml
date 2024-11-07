@@ -37,6 +37,3 @@ main:
   - name: Blogs
     url: /#blog
     weight: 110
-  # - name: Resumé
-  #   url: about/
-  #   weight: 20
